@@ -1,0 +1,5 @@
+# Credenciales locales: nunca se suben a GitHub
+config.php
+
+# Copia de seguridad de la versión anterior del proyecto
+_respaldo_original/
